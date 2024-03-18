@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Dino Pedia</string>
+    <string name="share">Bagikan</string>
+    <string name="send_to">Bagikan ke</string>
+    <string name="info_family_logo">Logo Family</string>
+    <string name="info_family_name">Nama Family</string>
+    <string name="info_family_desc">Deskripsi</string>
+    <string name="info_family_dinosaurus">Jenis Dinosaurus</string>
+
+    <string-array name="familys_name">
+        <item>Tyrannosauridae</item>
+        <item>Hadrosauridae</item>
+        <item>Ceratopsidae</item>
+        <item>Sauropodidae</item>
+        <item>Stegosauridae</item>
+        <item>Ankylosauridae</item>
+        <item>Therizinosauridae</item>
+        <item>Ornithomimidae</item>
+    </string-array>
+
+    <string-array name="familys_logo">
+        <item>@drawable/fam1</item>
+        <item>@drawable/fam2</item>
+        <item>@drawable/fam3</item>
+        <item>@drawable/fam4</item>
+        <item>@drawable/fam5</item>
+        <item>@drawable/fam6</item>
+        <item>@drawable/fam7</item>
+        <item>@drawable/fam8</item>
+    </string-array>
+
+    <string-array name="familys_description">
+        <item>
+            1. Dikenal sebagai famili dinosaurus karnivora besar yang paling terkenal. \n
+            2. Ciri khasnya adalah kepala besar, rahang kuat, dan gigi tajam yang cocok untuk memotong daging. \n
+            3. Anggota terkenalnya adalah Tyrannosaurus rex, dinosaurus karnivora raksasa yang memerintah sebagai predator puncak di zamannya.</item>
+        <item>
+            1. Juga dikenal sebagai "dinosaurus bebek" karena memiliki rahang yang mirip dengan bebek modern. \n
+            2. Umumnya adalah dinosaurus herbivora dengan mulut yang mampu mengunyah dan mengolah tumbuhan.
+            3. Anggota terkenal termasuk Parasaurolophus, Edmontosaurus, dan Corythosaurus.
+        </item>
+        <item>
+            1. Famili dinosaurus bertanduk yang memiliki ciri khas tanduk besar di kepala dan kerah tulang yang menonjol. \n
+            2. Dikenal karena memiliki perisai tulang di wajah mereka. \n
+            3. Contoh yang paling terkenal adalah Triceratops, yang memiliki tiga tanduk besar di bagian atas kepala.
+        </item>
+        <item>
+            1. Salah satu famili dinosaurus terbesar yang pernah ada, dikenal karena tubuh raksasa dan leher panjang mereka. \n
+            2. Umumnya adalah dinosaurus herbivora yang mencari makan dari tumbuhan tinggi. \n
+            3. Contoh yang terkenal termasuk Brachiosaurus dan Diplodocus.
+        </item>
+        <item>
+            1. Famili dinosaurus dengan ciri khas tonjolan tulang dan duri besar di punggung dan ekor mereka. \n
+            2. Dipercaya bahwa tonjolan tulang ini mungkin digunakan untuk tujuan pertahanan atau regulasi suhu. \n
+            3. Stegosaurus adalah salah satu contoh yang paling terkenal dari famili ini.
+        </item>
+        <item>
+            1. Famili dinosaurus yang memiliki tubuh yang dilindungi oleh pelat-pelat tulang dan tonjolan-tonjolan. \n
+            2. Ciri khasnya adalah ekor yang berat dilengkapi dengan bola tulang yang berfungsi sebagai senjata pertahanan. \n
+            3. Ankylosaurus dan Euoplocephalus adalah contoh yang paling terkenal.
+        </item>
+        <item>
+            1. Famili dinosaurus yang umumnya memiliki cakar yang panjang dan melengkung, serta gigi yang cocok untuk pemakan tumbuhan. \n
+            2. Dipercaya bahwa mereka adalah herbivora atau omnivora. \n
+            3. Therizinosaurus adalah contoh yang paling terkenal dari famili ini.
+        </item>
+        <item>
+            1. Famili dinosaurus yang sering disebut sebagai "dinosaurus mirip burung" karena tubuh ramping dan cakar yang mirip dengan burung. \n
+            2. Meskipun sering dianggap sebagai pemakan daging, ada juga bukti yang menunjukkan bahwa mereka mungkin omnivora atau bahkan herbivora. \n
+            3. Ornithomimus adalah salah satu contoh yang paling terkenal.
+        </item>
+    </string-array>
+
+    <string-array name="familys_dinosaurus">
+        <item>Tyrannosaurus rex</item>
+        <item>Parasaurolophus, Edmontosaurus</item>
+        <item>Triceratops, Styracosaurus</item>
+        <item>Brachiosaurus, Diplodocus</item>
+        <item>Stegosaurus</item>
+        <item>Ankylosaurus, Euoplocephalus</item>
+        <item>Dinosaurus: Therizinosaurus</item>
+        <item>Dinosaurus: Ornithomimus</item>
+    </string-array>
+
+</resources>

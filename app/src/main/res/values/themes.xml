@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PAMTantanganPrak7"
+        parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/blue</item>
+    </style>
+    <style name="Theme.PAMTantanganPrak7"
+        parent="Base.Theme.PAMTantanganPrak7" />
+</resources>

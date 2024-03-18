@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/foto_profil"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="130dp"
+        android:src="@drawable/profile" />
+
+    <TextView
+        android:id="@+id/nama_akun"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="145dp"
+        android:text="Corry Sitorus"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="35dp"
+        android:justificationMode="inter_word"
+        android:text="Saya Corry Sitorus. Saya berkuliah di Institut Teknologi Del (IT Del) dengan program studi S1 Informatika. Saat ini saya sedang menempuh pendidikan semester 6. Di Institut Teknologi Del saya tergabung dalam Himpunan Mahasiswa Prodi Sarjana Informatika (HIMASTI). "
+        android:textColor="#000000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="10dp"
+        android:text="Biodata"
+        android:textColor="#000000"
+        android:textStyle="bold" />
+
+
+    <TableLayout
+        android:id="@+id/TableLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="10dp">
+
+        <TableRow
+            android:id="@+id/TableRow6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="1dp">
+
+            <TextView
+                android:id="@+id/nama_lengkap"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="Nama"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/namalengkap"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="Corry Betriks Sitorus" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/TableRow7"
+            android:layout_marginTop="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/nim"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="NIM"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/nimm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="11S21047" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/TableRow1"
+            android:layout_marginTop="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/prodi"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="Prodi"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/prodii"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="S1 Informatika" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/TableRow8"
+            android:layout_marginTop="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/fakultas"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="Fakultas"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/fite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="Fakultas Informatika dan Teknik Elektro" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/TableRow2"
+            android:layout_marginTop="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/email"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="Email"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/emailcorry"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="corrystrs00@gmail.com" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/TableRow3"
+            android:layout_marginTop="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/alamat"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:text="Alamat"
+                android:textColor="#000000"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/alamatt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="Porsea, Kab.Toba"
+                tools:ignore="DuplicateIds" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/TableRow4"
+            android:layout_marginTop="1dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/teleponn"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="Telepon"
+                android:textStyle="normal" />
+
+            <TextView
+                android:id="@+id/telepon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="081234567890"
+                tools:ignore="DuplicateIds" />
+
+        </TableRow>
+
+    </TableLayout>
+
+</LinearLayout>
