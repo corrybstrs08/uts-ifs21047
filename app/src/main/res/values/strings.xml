@@ -6,6 +6,8 @@
     <string name="info_family_name">Nama Family</string>
     <string name="info_family_desc">Deskripsi</string>
     <string name="info_family_dinosaurus">Jenis Dinosaurus</string>
+    <string name="info_dino_name">Nama Dino</string>
+    <string name="info_dino_icon">Icon Dino</string>
 
     <string-array name="familys_name">
         <item>Tyrannosauridae</item>

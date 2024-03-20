@@ -90,3 +90,4 @@ class MainActivity : AppCompatActivity() {
         startActivity(intentWithData)
     }
 }
+
