@@ -18,5 +18,10 @@ class WelcomeActivity : AppCompatActivity() {
             startActivity(Intent(this, MainActivity::class.java))
         }
 
+        // Set click listener for Dino button
+        binding.btnDino.setOnClickListener {
+            startActivity(Intent(this, ListDinosaurusActivity::class.java))
+        }
+
     }
 }
