@@ -5,9 +5,18 @@
     <string name="info_family_logo">Logo Family</string>
     <string name="info_family_name">Nama Family</string>
     <string name="info_family_desc">Deskripsi</string>
-    <string name="info_family_dinosaurus">Jenis Dinosaurus</string>
+    <string name="info_family_periode">Periode Hidup</string>
+    <string name="info_family_habitat">Habitat dan Lingkungannya</string>
+    <string name="info_family_perilaku">Perilaku</string>
+    <string name="info_family_klasifikasi">Jenis Dinosaurus</string>
     <string name="info_dino_name">Nama Dino</string>
     <string name="info_dino_icon">Icon Dino</string>
+    <string name="info_dino_desc">Deskripsi Dino</string>
+    <string name="info_dino_habitat">Habitat Dino</string>
+    <string name="info_dino_karakter">Karakter Dino</string>
+    <string name="info_dino_perilaku">Perilaku Dino</string>
+    <string name="info_dino_adaptasi">Adaptasi Dino</string>
+    <string name="info_dino_periode">Periode Dino</string>
 
     <string-array name="familys_name">
         <item>Tyrannosauridae</item>
@@ -73,7 +82,40 @@
         </item>
     </string-array>
 
-    <string-array name="familys_dinosaurus">
+    <string-array name="familys_periode">
+        <item>Muncul pada pertengahan hingga akhir periode Kapur, sekitar 85 hingga 66 juta tahun yang lalu.</item>
+        <item>Terutama hidup pada akhir periode Kapur, sekitar 80 hingga 66 juta tahun yang lalu.</item>
+        <item>Muncul pada pertengahan hingga akhir periode Kapur, sekitar 83 hingga 66 juta tahun yang lalu.</item>
+        <item>Mayoritas hidup selama periode Jura dan Kapur, dengan sebagian besar spesies hidup pada periode Kapur, sekitar 150 hingga 66 juta tahun yang lalu.</item>
+        <item>Terutama hidup pada akhir periode Jura hingga awal periode Kapur, sekitar 155 hingga 150 juta tahun yang lalu.</item>
+        <item>Terutama hidup pada pertengahan hingga akhir periode Kapur, sekitar 125 hingga 66 juta tahun yang lalu.</item>
+        <item>Terutama hidup pada akhir periode Kapur, sekitar 90 hingga 66 juta tahun yang lalu.</item>
+        <item>Terutama hidup pada pertengahan hingga akhir periode Kapur, sekitar 126 hingga 66 juta tahun yang lalu.</item>
+    </string-array>
+
+    <string-array name="familys_habitat">
+        <item>Biasanya ditemukan di wilayah daratan yang luas, termasuk hutan datar, daerah sungai, dan dataran banjir. Mereka adalah predator yang dominan dan membutuhkan ruang yang cukup untuk mencari mangsa.</item>
+        <item>Biasanya ditemukan di daerah berawa, dataran banjir, dan hutan rawa-rawa. Mereka sering kali berada di daerah-daerah dengan vegetasi yang lebat, karena mereka adalah herbivora yang memakan tumbuhan rendah dan semak-semak.</item>
+        <item>Biasanya ditemukan di dataran terbuka dan savana, serta hutan terbuka. Mereka sering kali hidup di daerah yang cukup subur dengan vegetasi yang beragam, karena mereka adalah herbivora yang memakan berbagai jenis tumbuhan.</item>
+        <item>Sering ditemukan di dataran banjir, hutan datar, dan daerah-daerah dengan vegetasi yang lebat. Mereka adalah herbivora raksasa yang membutuhkan banyak tanaman untuk memenuhi kebutuhan makanan mereka.</item>
+        <item>Biasanya ditemukan di daerah yang lebih kering, seperti daerah padang rumput dan daerah bersemak belukar. Mereka cenderung menghindari hutan lebat karena ukuran dan bentuk tubuh mereka yang khas.</item>
+        <item>Biasanya ditemukan di daerah dataran rendah dan hutan rawa-rawa. Mereka mungkin lebih memilih daerah yang lebih tertutup dan dilindungi karena perlindungan yang diberikan oleh baju besi tulang mereka.</item>
+        <item>Biasanya ditemukan di hutan-hutan lebat dan daerah-daerah dengan vegetasi yang subur. Mereka adalah herbivora yang memiliki cakar besar dan digunakan untuk mencabut tumbuhan dari pepohonan dan semak-semak.</item>
+        <item>Biasanya ditemukan di daerah-daerah terbuka, savana, dan hutan terbuka. Mereka adalah dinosaurus berlari yang cepat dan mungkin mendiami habitat yang memungkinkan mereka untuk bergerak dengan cepat dalam mencari makanan.</item>
+    </string-array>
+
+    <string-array name="familys_perilaku">
+        <item>Tyrannosauridae, termasuk Tyrannosaurus rex, dikenal sebagai predator raksasa. Mereka memiliki perilaku pemangsa yang agresif dan mematikan. Tyrannosaurus rex diyakini berburu secara soliter atau mungkin dalam pasangan kecil. Mereka mungkin menggunakan strategi pengejaran dan kejutan untuk menaklukkan mangsa mereka.</item>
+        <item>Hadrosauridae, atau dinosaurus bebek, adalah herbivora yang hidup dalam kelompok besar. Mereka sering kali membentuk kawanan untuk meningkatkan perlindungan dari predator dan memperoleh keuntungan makanan dari pohon-pohon atau semak-semak yang mereka makan.</item>
+        <item>Ceratopsidae, seperti Triceratops, adalah herbivora dengan ciri khas tanduk dan kerongkongan. Mereka mungkin memiliki perilaku bertarung dalam konteks persaingan antarsesama jenis, dengan menggunakan tanduk mereka sebagai senjata dalam pertarungan.</item>
+        <item>Sauropodidae, termasuk Brachiosaurus dan Diplodocus, adalah herbivora raksasa dengan leher panjang dan ekor yang panjang. Mereka cenderung memiliki perilaku makan yang konstan, menghabiskan sebagian besar waktu mereka mencari makanan dan mengunyah tumbuhan yang rendah.</item>
+        <item>Stegosauridae, seperti Stegosaurus, memiliki ciri khas punggung yang dilengkapi dengan lempeng dan tanduk. Mereka mungkin memiliki perilaku defensif yang kuat, menggunakan lempeng dan tanduk mereka sebagai pertahanan terhadap predator.</item>
+        <item>Ankylosauridae, seperti Ankylosaurus, memiliki tubuh yang dilindungi dengan baju besi tulang dan tulang ekor yang berduri. Mereka mungkin memiliki perilaku yang lamban dan cenderung bertahan dalam situasi berbahaya, mengandalkan perlindungan fisik mereka untuk menghindari serangan predator.</item>
+        <item>Therizinosauridae, seperti Therizinosaurus, adalah herbivora yang memiliki cakar besar dan digunakan untuk mencabut tumbuhan dari pepohonan dan semak-semak. Mereka mungkin memiliki perilaku sosial yang kompleks dan mungkin juga bertindak sebagai predator untuk mencari makanan lain seperti invertebrata.</item>
+        <item>Ornithomimidae, atau dinosaurus mirip burung, adalah dinosaurus berlari yang cepat. Mereka mungkin memiliki perilaku pengejar-pengejar kecil dan bisa bergerak dengan cepat dalam mencari makanan atau melarikan diri dari predator.</item>
+    </string-array>
+
+    <string-array name="familys_klasifikasi">
         <item>Tyrannosaurus rex</item>
         <item>Parasaurolophus, Edmontosaurus</item>
         <item>Triceratops, Styracosaurus</item>
@@ -82,6 +124,214 @@
         <item>Ankylosaurus, Euoplocephalus</item>
         <item>Dinosaurus: Therizinosaurus</item>
         <item>Dinosaurus: Ornithomimus</item>
+    </string-array>
+
+    <string-array name="start_index_dino">
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+    </string-array>
+
+    <string-array name="end_index_dino">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>9</item>
+        <item>11</item>
+        <item>13</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="dinos_name">
+        <item>Tyrannosaurus rex</item>
+        <item>Albertosaurus Sarcophagus</item>
+        <item>Edmontosaurus Regalis</item>
+        <item>Maiasaura Peeblesorum</item>
+        <item>Triceratops Horridus</item>
+        <item>Styracosaurus Albertensis</item>
+        <item>Brachiosaurus Altithorax</item>
+        <item>Apatosaurus Louisae</item>
+        <item>Stegosaurus Stenops</item>
+        <item>Kentrosaurus Aethiopicus</item>
+        <item>Ankylosaurus Magniventris</item>
+        <item>Euoplocephalus Tutus</item>
+        <item>Therizinosaurus Cheloniformis</item>
+        <item>Beipiaosaurus Inexpectus</item>
+        <item>Ornithomimus Velox</item>
+        <item>Gallimimus Bullatus</item>
+    </string-array>
+
+    <string-array name="dinos_icon">
+        <item>@drawable/tyrannosaurus_rex</item>
+        <item>@drawable/albertosaurus_sarcophagus</item>
+        <item>@drawable/edmontosaurus</item>
+        <item>@drawable/maiasaura_peeblesorum</item>
+        <item>@drawable/triceratops</item>
+        <item>@drawable/styracosaurus</item>
+        <item>@drawable/brachiosaurus</item>
+        <item>@drawable/apatosaurus_louisae</item>
+        <item>@drawable/stegosaurus</item>
+        <item>@drawable/kentrosaurus_aethiopicus</item>
+        <item>@drawable/ankylosaurus</item>
+        <item>@drawable/euoplocephalus</item>
+        <item>@drawable/therizinosaurus</item>
+        <item>@drawable/beipiaosaurus_inexpectus</item>
+        <item>@drawable/ornithomimus</item>
+        <item>@drawable/gallimimusbullatus</item>
+    </string-array>
+
+    <string-array name="dinos_desc">
+        <item>Tyrannosaurus rex adalah salah satu predator paling terkenal dari periode Kapur. Dikenal karena ukuran tubuhnya yang besar, gigi tajam, dan rahang yang kuat, T. rex adalah pemangsa yang efisien dan dominan di ekosistemnya. Mereka hidup sekitar 68-66 juta tahun yang lalu di wilayah yang sekarang menjadi Amerika Utara.</item>
+        <item>Albertosaurus sarcophagus adalah saudara dekat Tyrannosaurus rex, meskipun sedikit lebih kecil. Mereka juga merupakan predator teratas di ekosistemnya, hidup sekitar 70-68 juta tahun yang lalu di wilayah yang sekarang menjadi Kanada dan Amerika Serikat bagian barat.</item>
+        <item>Edmontosaurus regalis adalah herbivora besar dari keluarga Hadrosauridae yang hidup sekitar 73-66 juta tahun yang lalu di Amerika Utara. Mereka memiliki leher panjang dan gigi yang cocok untuk mengunyah tumbuhan, dan sering kali hidup dalam kawanan besar untuk meningkatkan perlindungan dari predator.</item>
+        <item>Maiasaura peeblesorum adalah dinosaurus herbivora dari keluarga Hadrosauridae yang hidup sekitar 76-72 juta tahun yang lalu di Amerika Utara. Mereka terkenal karena perilaku mengerami telur dan merawat anak-anak mereka setelah menetas, menjadikan mereka salah satu dinosaurus pertama yang diketahui melakukan perawatan induk terhadap keturunan mereka.</item>
+        <item>Triceratops horridus adalah dinosaurus herbivora dengan tiga tanduk dan lempeng tulang di punggungnya. Mereka hidup sekitar 68-66 juta tahun yang lalu di Amerika Utara. Triceratops adalah salah satu dinosaurus tanduk terbesar yang pernah ada dan sering kali bertarung dalam persaingan intra-spesies menggunakan tanduk mereka.</item>
+        <item>Styracosaurus albertensis adalah dinosaurus ceratopsian yang hidup sekitar 75-72 juta tahun yang lalu di Amerika Utara. Mereka memiliki tanduk dan lempeng tulang yang mencolok di tengkorak mereka, dan diyakini digunakan untuk komunikasi visual atau sebagai pertahanan terhadap predator.</item>
+        <item>Brachiosaurus altithorax adalah sauropoda raksasa yang hidup sekitar 154-153 juta tahun yang lalu di Amerika Utara. Mereka memiliki leher panjang yang memungkinkan mereka mencapai daun-daun tinggi di pohon-pohon, dan mungkin menghabiskan sebagian besar waktu mereka memakan tumbuhan dari kanopi hutan.</item>
+        <item>Apatosaurus louisae adalah dinosaurus sauropoda yang hidup sekitar 155-152 juta tahun yang lalu di Amerika Utara. Awalnya disebut Brontosaurus, mereka memiliki tubuh besar, leher panjang, dan ekor yang panjang. Mereka adalah herbivora yang menghabiskan sebagian besar waktu mereka mencari makanan.</item>
+        <item>Stegosaurus Stenops adalah dinosaurus bertubuh besar yang hidup sekitar 150 juta tahun yang lalu. Dinosaurus ini dikenal karena punggungnya yang dilengkapi dengan deretan lempeng tulang besar yang digunakan untuk regulasi suhu tubuh dan sebagai pertahanan terhadap predator. Stegosaurus Stenops memiliki otak kecil yang menunjukkan kemungkinan perilaku yang lambat dan defensif.</item>
+        <item>Kentrosaurus Aethiopicus adalah dinosaurus berukuran sedang yang hidup pada periode Jura Akhir, sekitar 155 hingga 150 juta tahun yang lalu. Mereka memiliki ciri khas berupa deretan duri tajam di bagian belakang tubuh mereka yang digunakan untuk perlindungan dari predator. Kentrosaurus Aethiopicus diperkirakan hidup dalam kelompok kecil dan mungkin memiliki perilaku defensif.</item>
+        <item>Ankylosaurus Magniventris adalah dinosaurus herbivora yang hidup pada periode Kapur Akhir, sekitar 68 hingga 66 juta tahun yang lalu. Mereka memiliki tubuh yang dilindungi oleh baju besi tulang yang tebal dan duri-duri besar di bagian belakang tubuh mereka. Ankylosaurus Magniventris mungkin memiliki perilaku yang lamban dan cenderung bergantung pada perlindungan fisik mereka untuk bertahan hidup.</item>
+        <item>Euoplocephalus Tutus adalah dinosaurus berlapis baja yang hidup pada periode Kapur Akhir, sekitar 76 hingga 66 juta tahun yang lalu. Mereka memiliki tubuh yang dilindungi oleh lapisan tulang keras dan alat defensif seperti bola baju besi di ujung ekor mereka. Euoplocephalus Tutus mungkin memiliki perilaku yang lamban dan bertindak sebagai herbivora pemakan tumbuhan rendah.</item>
+        <item>Therizinosaurus Cheloniformis adalah dinosaurus herbivora raksasa yang hidup pada periode Kapur Awal, sekitar 125 hingga 100 juta tahun yang lalu. Mereka memiliki ciri khas berupa cakar-cakar besar yang panjang, mungkin digunakan untuk mencabut daun-daunan tinggi dari pohon-pohon. Therizinosaurus Cheloniformis mungkin memiliki perilaku yang lambat dan bersifat pemalu.</item>
+        <item>Beipiaosaurus Inexpectus adalah dinosaurus berbulu yang hidup pada periode Kapur Awal, sekitar 125 hingga 120 juta tahun yang lalu. Mereka merupakan salah satu dinosaurus berbulu pertama yang ditemukan. Beipiaosaurus Inexpectus mungkin memiliki perilaku yang mirip dengan dinosaurus berbulu modern, menggunakan bulunya untuk mengatur suhu tubuh dan sebagai perlindungan dari cuaca dan predator.</item>
+        <item>Ornithomimus Velox adalah dinosaurus berlari yang hidup pada periode Kapur Akhir, sekitar 75 hingga 65 juta tahun yang lalu. Mereka memiliki tubuh yang ramping dan kaki yang panjang, menandakan kemampuan berlari yang cepat. Ornithomimus Velox mungkin memiliki perilaku pemangsa kecil, mencari makanan dalam jumlah besar dan bergerak secara aktif dalam mencari mangsa.</item>
+        <item>Gallimimus Bullatus adalah dinosaurus berlari yang hidup pada periode Kapur Akhir, sekitar 70 hingga 65 juta tahun yang lalu. Mereka memiliki tubuh yang ramping dan kaki yang panjang, serta paruh yang panjang dan runcing. Gallimimus Bullatus adalah dinosaurus omnivora yang mungkin memiliki perilaku mencari makanan dalam kelompok besar dan menggunakan kecepatan untuk melarikan diri dari predator.</item>
+    </string-array>
+
+    <string-array name="dinos_habitat">
+        <item>Biasanya ditemukan di wilayah dataran terbuka atau hutan datar pada periode Kapur Akhir, yang kemungkinan mencakup daerah seperti hutan rawa-rawa, dataran banjir, dan savana.</item>
+        <item>Habitatnya kemungkinan mirip dengan Tyrannosaurus rex, yang mencakup daerah dataran terbuka, hutan datar, dan savana pada periode Kapur Akhir.</item>
+        <item>Edmontosaurus mungkin mendiami daerah dataran rendah yang luas, termasuk dataran banjir, padang rumput, dan hutan rawa-rawa.</item>
+        <item>Maiasaura kemungkinan hidup di daerah berawa, padang rumput, dan hutan terbuka pada periode Kapur Akhir. Mereka biasanya ditemukan di daerah yang subur dengan vegetasi yang melimpah.</item>
+        <item>Triceratops mungkin mendiami berbagai habitat, termasuk dataran rendah, hutan terbuka, dan savana pada periode Kapur Akhir. Mereka cenderung berada di daerah-daerah dengan vegetasi yang melimpah.</item>
+        <item>Habitatnya mirip dengan Triceratops, yang mencakup dataran rendah, hutan terbuka, dan savana pada periode Kapur Akhir.</item>
+        <item>Brachiosaurus diperkirakan hidup di daerah-daerah dengan vegetasi yang tinggi, termasuk hutan lebat dan daerah dengan vegetasi yang melimpah pada periode Jura Akhir.</item>
+        <item>Habitat Apatosaurus kemungkinan mencakup hutan datar, dataran banjir, dan daerah berawa-rawa pada periode Jura Akhir hingga Kapur Awal.</item>
+        <item>Stegosaurus mungkin mendiami daerah-daerah dengan vegetasi yang melimpah seperti hutan datar dan daerah berawa pada periode Jura Akhir hingga Kapur Awal.</item>
+        <item>Kentrosaurus mungkin hidup di daerah-daerah dengan vegetasi yang jarang seperti savana dan padang rumput pada periode Jura Akhir hingga Kapur Awal.</item>
+        <item>Ankylosaurus kemungkinan mendiami daerah-daerah dengan vegetasi yang melimpah seperti hutan rawa-rawa dan dataran banjir pada periode Kapur Akhir.</item>
+        <item>Habitatnya mirip dengan Ankylosaurus, yang mencakup daerah-daerah dengan vegetasi yang melimpah seperti hutan rawa-rawa dan dataran banjir pada periode Kapur Akhir.</item>
+        <item>Therizinosaurus mungkin hidup di daerah-daerah hutan lebat dan bersemak belukar pada periode Kapur Awal hingga Kapur Akhir.</item>
+        <item>Beipiaosaurus mungkin mendiami daerah-daerah hutan lebat dan daerah berawa pada periode Kapur Awal hingga Kapur Akhir.</item>
+        <item>Ornithomimus mungkin hidup di daerah-daerah terbuka seperti padang rumput dan savana pada periode Kapur Akhir.</item>
+        <item>Gallimimus kemungkinan mendiami daerah-daerah terbuka seperti padang rumput, savana, dan hutan datar pada periode Kapur Akhir.</item>
+    </string-array>
+
+    <string-array name="dinos_karakter">
+        <item>Tyrannosaurus rex adalah dinosaurus karnivora raksasa dengan rahang yang kuat, gigi yang tajam, dan tubuh yang besar. Mereka dikenal sebagai predator puncak pada periode Kapur Akhir.</item>
+        <item>Mirip dengan Tyrannosaurus rex, Albertosaurus adalah dinosaurus karnivora yang memiliki ciri khas rahang yang kuat dan gigi yang tajam. Mereka adalah predator aktif pada periode Kapur Akhir.</item>
+        <item>Edmontosaurus adalah dinosaurus herbivora yang memiliki tubuh besar, leher panjang, dan paruh seperti bebek. Mereka adalah herbivora yang hidup di dataran banjir dan savana pada periode Kapur Akhir.</item>
+        <item>Maiasaura adalah dinosaurus herbivora yang terkenal karena perilaku induknya yang merawat anak-anaknya. Mereka hidup di daerah berawa dan hutan rawa-rawa pada periode Kapur Akhir.</item>
+        <item>Triceratops adalah dinosaurus herbivora yang memiliki tiga tanduk besar di kepala dan lempeng tanduk di belakang tengkorak. Mereka hidup di berbagai habitat, termasuk hutan terbuka dan savana.</item>
+        <item>Styracosaurus adalah dinosaurus herbivora yang memiliki satu tanduk besar di hidungnya dan lempeng tanduk di sekitar tengkorak. Mereka hidup di daerah dataran rendah dan hutan terbuka.</item>
+        <item>Brachiosaurus adalah dinosaurus herbivora raksasa dengan leher panjang yang digunakan untuk meraih daun-daunan tinggi dari pohon. Mereka mendiami hutan lebat dan daerah bersemak pada periode Jura Akhir.</item>
+        <item>Apatosaurus adalah dinosaurus herbivora yang memiliki tubuh besar, leher panjang, dan ekor yang panjang. Mereka hidup di dataran banjir dan daerah berawa-rawa pada periode Jura Akhir hingga Kapur Awal.</item>
+        <item>Stegosaurus adalah dinosaurus herbivora yang memiliki deretan lempeng tulang besar di punggungnya dan sepasang duri besar di ekornya. Mereka mendiami daerah-daerah hutan datar dan dataran banjir.</item>
+        <item>Kentrosaurus adalah dinosaurus herbivora yang memiliki duri-duri tajam di bagian belakang tubuhnya. Mereka hidup di savana dan padang rumput pada periode Jura Akhir.</item>
+        <item>Ankylosaurus adalah dinosaurus herbivora yang memiliki tubuh dilindungi dengan baju besi tulang dan duri-duri besar di bagian belakang tubuhnya. Mereka hidup di daerah-daerah hutan rawa-rawa dan dataran banjir.</item>
+        <item>Euoplocephalus adalah dinosaurus herbivora yang juga memiliki tubuh dilindungi dengan baju besi tulang dan alat defensif lainnya. Mereka mendiami daerah-daerah hutan rawa-rawa dan daerah berawa.</item>
+        <item>Therizinosaurus adalah dinosaurus herbivora dengan cakar-cakar besar yang digunakan untuk mencabut daun-daunan dari pohon. Mereka hidup di hutan lebat pada periode Kapur Akhir.</item>
+        <item>Beipiaosaurus adalah dinosaurus berbulu yang hidup di daerah-daerah hutan lebat dan daerah berawa-rawa. Mereka mungkin memiliki perilaku serupa dengan dinosaurus berbulu modern.</item>
+        <item>Ornithomimus adalah dinosaurus berlari yang memiliki tubuh ramping dan kaki yang panjang. Mereka hidup di daerah terbuka seperti padang rumput dan savana pada periode Kapur Akhir.</item>
+        <item>Gallimimus adalah dinosaurus berlari yang memiliki tubuh ramping dan paruh yang panjang. Mereka mendiami daerah-daerah terbuka seperti padang rumput, savana, dan dataran banjir.</item>
+    </string-array>
+
+    <string-array name="dinos_perilaku">
+        <item>Tyrannosaurus rex adalah predator aktif yang cenderung memburu mangsa besar secara soliter atau dalam pasangan kecil. Mereka menggunakan kecepatan dan kekuatan rahang mereka untuk menyerang dan membunuh mangsa.</item>
+        <item>Albertosaurus mungkin memiliki perilaku serupa dengan Tyrannosaurus rex, sebagai predator aktif yang memburu mangsa besar secara soliter atau dalam kelompok kecil.</item>
+        <item>Edmontosaurus adalah herbivora yang mungkin hidup dalam kawanan besar untuk meningkatkan perlindungan dari predator. Mereka mungkin memiliki perilaku sosial kompleks yang melibatkan interaksi antara individu-individu dalam kelompok.</item>
+        <item>Maiasaura dikenal karena perilaku induknya yang merawat anak-anaknya. Mereka mungkin membentuk koloni besar di daerah berawa dan melakukan perawatan bersama terhadap telur dan anak-anak mereka.</item>
+        <item>Triceratops mungkin memiliki perilaku defensif yang kuat, menggunakan tanduk-tanduk mereka sebagai senjata dan mempertahankan wilayahnya dari predator dan pesaing.</item>
+        <item>Styracosaurus kemungkinan memiliki perilaku serupa dengan Triceratops, menggunakan tanduk dan duri-duri di sekitar tengkoraknya untuk pertahanan dan dalam interaksi sosial dengan sesama spesies.</item>
+        <item>Brachiosaurus mungkin memiliki perilaku makan yang konstan, menghabiskan sebagian besar waktu mereka mencari makanan dengan meraih daun-daunan tinggi dari pohon-pohon.</item>
+        <item>Apatosaurus kemungkinan memiliki perilaku yang serupa dengan Brachiosaurus, dengan fokus pada mencari makanan dalam jumlah besar dan menjaga pergerakan kelompok untuk meningkatkan keselamatan.</item>
+        <item>Stegosaurus mungkin memiliki perilaku defensif yang kuat, menggunakan lempeng dan duri di punggungnya sebagai pertahanan terhadap predator dan mungkin juga dalam interaksi sosial.</item>
+        <item>Kentrosaurus kemungkinan memiliki perilaku bertahan hidup yang kuat, menggunakan duri-duri tajam di bagian belakang tubuhnya sebagai pertahanan terhadap predator.</item>
+        <item>Ankylosaurus adalah dinosaurus bertubuh besar yang cenderung memiliki perilaku yang lambat dan defensif, bergantung pada perlindungan fisik mereka untuk bertahan hidup.</item>
+        <item>Euoplocephalus mungkin memiliki perilaku serupa dengan Ankylosaurus, dengan fokus pada pertahanan terhadap predator menggunakan baju besi tulang mereka.</item>
+        <item>Therizinosaurus mungkin memiliki perilaku makan yang unik, menggunakan cakar-cakar besar mereka untuk mencabut daun-daunan tinggi dari pohon.</item>
+        <item>Beipiaosaurus mungkin memiliki perilaku yang mirip dengan dinosaurus berbulu modern, menggunakan bulu mereka untuk mengatur suhu tubuh dan melindungi dari cuaca dan predator.</item>
+        <item>Ornithomimus adalah dinosaurus berlari yang cenderung memiliki perilaku mencari makanan dalam kelompok besar dan menggunakan kecepatan untuk melarikan diri dari predator.</item>
+        <item>Gallimimus juga adalah dinosaurus berlari yang mungkin memiliki perilaku serupa dengan Ornithomimus, dengan fokus pada mencari makanan dalam kelompok besar dan menggunakan kecepatan untuk melarikan diri dari predator.</item>
+    </string-array>
+
+    <string-array name="dinos_adaptasi">
+        <item>
+            1. Rahang yang kuat dan gigi yang tajam untuk mencabik daging mangsa. \n
+            2. Kaki belakang yang kuat untuk berlari dengan cepat saat mengejar mangsa. \n
+            3. Penglihatan yang tajam untuk mendeteksi mangsa potensial dari jarak jauh.
+        </item>
+        <item>Adaptasi yang serupa dengan Tyrannosaurus rex, dengan rahang yang kuat dan gigi yang tajam untuk memangsa mangsa.</item>
+        <item>
+            1. Paruh seperti bebek yang digunakan untuk mencabut daun-daunan dan tanaman rendah. \n
+            2. Tubuh yang besar untuk menyimpan energi dan bertahan dari predator.
+        </item>
+        <item>
+            1. Kemampuan merawat dan melindungi anak-anak dari predator. \n
+            2. Adaptasi sosial untuk hidup dalam kelompok dan membentuk koloni besar.
+        </item>
+        <item>
+            1. Tanduk-tanduk besar di kepala untuk pertahanan dari predator dan dalam interaksi sosial dengan sesama Triceratops. \n
+            2. Lempeng tanduk di sekitar tengkorak untuk meningkatkan perlindungan.
+        </item>
+        <item>
+            1. Tanduk besar di hidung untuk pertahanan dari predator dan mungkin dalam komunikasi dengan sesama Styracosaurus. \n
+            2. Adaptasi defensif seperti duri-duri di tubuhnya.
+        </item>
+        <item>
+            1. Leher yang panjang untuk mencapai daun-daunan tinggi dari pohon. \n
+            2. Tubuh besar untuk menyimpan energi dan bertahan hidup dalam kondisi lingkungan yang keras.
+        </item>
+        <item>
+            1. Leher panjang untuk meraih daun-daunan tinggi dari pohon. \n
+            2. Ekor yang panjang untuk keseimbangan dan mungkin sebagai alat pertahanan.
+        </item>
+        <item>
+            1. Lempeng tulang di punggungnya yang mungkin digunakan untuk regulasi suhu tubuh dan sebagai pertahanan dari predator. \n
+            2. Duri-duri besar di ekornya untuk pertahanan.
+        </item>
+        <item>Duri-duri tajam di bagian belakang tubuhnya untuk pertahanan dari predator.</item>
+        <item>
+            1. Tubuh dilindungi dengan baju besi tulang dan duri-duri besar untuk pertahanan. \n
+            2. Mungkin juga memiliki gada ekor untuk pertahanan aktif.
+        </item>
+        <item>Adaptasi yang serupa dengan Ankylosaurus, dengan baju besi tulang dan alat pertahanan lainnya.</item>
+        <item>Cakar-cakar besar untuk mencabut daun-daunan tinggi dari pohon.</item>
+        <item>Mungkin memiliki bulu-bulu yang membantu dalam regulasi suhu tubuh dan melindungi dari cuaca.</item>
+        <item>
+            1. Tubuh ramping dan kaki panjang untuk berlari dengan cepat. \n
+            2. Adaptasi kecepatan untuk menghindari predator.
+        </item>
+        <item>
+            1. Tubuh ramping dan kaki panjang untuk berlari dengan cepat. \n
+            2. Kemungkinan memiliki adaptasi untuk bergerak dalam kelompok besar dan menggunakan kecepatan untuk melarikan diri dari predator.
+        </item>
+    </string-array>
+
+    <string-array name="dinos_periode">
+        <item>Periode Kapur Akhir (sekitar 68 hingga 66 juta tahun yang lalu).</item>
+        <item>Periode Kapur Akhir (sekitar 76 hingga 74 juta tahun yang lalu).</item>
+        <item>Periode Kapur Akhir (sekitar 73 hingga 66 juta tahun yang lalu).</item>
+        <item>Periode Kapur Akhir (sekitar 76 hingga 72 juta tahun yang lalu).</item>
+        <item>Periode Kapur Akhir (sekitar 68 hingga 66 juta tahun yang lalu).</item>
+        <item>Periode Kapur Akhir (sekitar 76 hingga 74 juta tahun yang lalu).</item>
+        <item>Periode Jura Akhir (sekitar 154 hingga 153 juta tahun yang lalu).</item>
+        <item>Periode Jura Akhir hingga Kapur Awal (sekitar 154 hingga 150 juta tahun yang lalu).</item>
+        <item>Periode Jura Akhir hingga Kapur Awal (sekitar 155 hingga 150 juta tahun yang lalu).</item>
+        <item>Periode Jura Akhir hingga Kapur Awal (sekitar 155 hingga 150 juta tahun yang lalu).</item>
+        <item>Periode Kapur Akhir (sekitar 68 hingga 66 juta tahun yang lalu).</item>
+        <item>Periode Kapur Akhir (sekitar 76 hingga 74 juta tahun yang lalu).</item>
+        <item>Periode Kapur Akhir (sekitar 70 hingga 66 juta tahun yang lalu).</item>
+        <item>Periode Kapur Awal (sekitar 125 hingga 120 juta tahun yang lalu).</item>
+        <item>Periode Kapur Akhir (sekitar 75 hingga 65 juta tahun yang lalu).</item>
+        <item>Periode Kapur Akhir (sekitar 70 hingga 66 juta tahun yang lalu).</item>
     </string-array>
 
 </resources>

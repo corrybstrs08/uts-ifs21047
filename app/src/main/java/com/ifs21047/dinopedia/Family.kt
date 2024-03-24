@@ -7,5 +7,10 @@ data class Family(
     var name: String,
     var logo: Int,
     var description: String,
-    var dinosaurus: String,
+    var klasifikasi: String,
+    var periode: String,
+    var habitat: String,
+    var perilaku: String,
+    var startIndex: Int,
+    var endIndex: Int
 ) : Parcelable

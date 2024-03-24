@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WelcomeActivity">
+
+    <TextView
+        android:id="@+id/textJudul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="50dp"
+        android:gravity="center"
+        android:text="Welcome to Dino Pedia"
+        android:fontFamily="@font/poppins_regular"
+        android:textColor="#4285F4"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textWelcome"
+        android:layout_width="294dp"
+        android:layout_height="163dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginEnd="10dp"
+        android:justificationMode="inter_word"
+        android:text="DinoPedia adalah aplikasi sederhana yang didesain untuk memberikan informasi lengkap tentang berbagai keluarga dan spesies dinosaurus. Pengguna dapat menjelajahi berbagai jenis dinosaurus dan mendapatkan deskripsi singkat tentang masing-masing keluarga, termasuk informasi tentang spesies yang termasuk dalam keluarga tersebut, habitat, perilaku, dan fakta menarik lainnya."
+        android:textColor="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textJudul" />
+
+    <Button
+        android:id="@+id/btnFamily"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="316dp"
+        android:layout_marginEnd="80dp"
+        android:backgroundTint="@color/bluee"
+        android:text="Berikutnya"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textWelcome" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
